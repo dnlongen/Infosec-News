@@ -190,6 +190,7 @@
             <outline type="rss" text="Unit 42 – Palo Alto Networks Blog" title="Unit 42 – Palo Alto Networks Blog" xmlUrl="http://researchcenter.paloaltonetworks.com/unit42/feed/" htmlUrl="https://researchcenter.paloaltonetworks.com"/>
             <outline type="rss" text="Dragon News" title="Dragon News" xmlUrl="http://www.team-cymru.org/News/index.rss" htmlUrl="https://blog.team-cymru.org"/>
             <outline type="rss" text="Cofense" title="Cofense" xmlUrl="https://phishme.com/feed/" htmlUrl="https://cofense.com"/>
+            <outline type="rss" text="OutflankNL Blog" title="OutflankNL Blog" xmlUrl="https://outflank.nl/blog/feed/" htmlUrl="https://outflank.nl/blog/"/>
         </outline>
         <outline text="Must Read" title="Must Read">
             <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="http://www.schneier.com/blog/index.rdf" htmlUrl="https://www.schneier.com/blog/"/>
