@@ -38,6 +38,7 @@
             <outline type="rss" text="Unit 42" title="Unit 42" xmlUrl="http://feeds.feedburner.com/Unit42" htmlUrl="https://unit42.paloaltonetworks.com/"/>
             <outline type="rss" text="FortiGuard Labs | FortiGuard Center - IR Advisories" title="FortiGuard Labs | FortiGuard Center - IR Advisories" xmlUrl="http://www.fortiguard.com/rss/ir.xml" htmlUrl="https://fortiguard.fortinet.com/rss/ir.xml"/>
             <outline type="rss" text="Rational Security" title="Rational Security" xmlUrl="http://rationalsecurity.libsyn.com/rss" htmlUrl="https://www.lawfareblog.com/topic/rational-security"/>
+            <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="http://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
         </outline>
         <outline text="My List" title="My List">
             <outline type="rss" text="Technical Information Security Content &amp; Discussion" title="Technical Information Security Content &amp; Discussion" xmlUrl="http://www.reddit.com/r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/"/>
@@ -205,7 +206,6 @@
             <outline type="rss" text="Latest Security Advisories" title="Latest Security Advisories" xmlUrl="https://technet.microsoft.com/en-us/security/rss/advisory" htmlUrl="https://technet.microsoft.com/en-us/security/advisory"/>
             <outline type="rss" text="Infosecurity" title="Infosecurity" xmlUrl="http://www.infosecurity-magazine.com/rss/news/" htmlUrl="https://www.infosecurity-magazine.com/news/"/>
             <outline type="rss" text="Dark Reading:" title="Dark Reading:" xmlUrl="http://www.darkreading.com/rss/all.xml" htmlUrl="https://www.darkreading.com"/>
-            <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="http://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
             <outline type="rss" text="StopBadware blogs" title="StopBadware blogs" xmlUrl="http://feeds.feedburner.com/StopbadwareBlog" htmlUrl="https://www.stopbadware.org/blog"/>
             <outline type="rss" text="Nvidia Product Security" title="Nvidia Product Security" xmlUrl="https://advisories.feedly.com/nvidia/feed.json" htmlUrl="https://www.nvidia.com/en-us/security/"/>
             <outline type="rss" text="Microsoft Azure Blog" title="Microsoft Azure Blog" xmlUrl="https://azure.microsoft.com/en-us/blog/feed/" htmlUrl="https://azure.microsoft.com/en-us/blog/"/>
